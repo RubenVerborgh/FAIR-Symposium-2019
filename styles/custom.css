@@ -45,3 +45,10 @@ p.venue {
   height: 134%;
   max-height: none;
 }
+
+p.ref {
+  margin: 0;
+  font-size: .75em;
+  font-style: italic;
+  line-height: 1.25;
+}
